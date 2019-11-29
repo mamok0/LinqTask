@@ -1,0 +1,11 @@
+D:\LinqTask\bin\Debug\netcoreapp3.0\LinqTask.exe
+D:\LinqTask\bin\Debug\netcoreapp3.0\LinqTask.deps.json
+D:\LinqTask\bin\Debug\netcoreapp3.0\LinqTask.runtimeconfig.json
+D:\LinqTask\bin\Debug\netcoreapp3.0\LinqTask.runtimeconfig.dev.json
+D:\LinqTask\bin\Debug\netcoreapp3.0\LinqTask.dll
+D:\LinqTask\bin\Debug\netcoreapp3.0\LinqTask.pdb
+D:\LinqTask\obj\Debug\netcoreapp3.0\LinqTask.csprojAssemblyReference.cache
+D:\LinqTask\obj\Debug\netcoreapp3.0\LinqTask.AssemblyInfoInputs.cache
+D:\LinqTask\obj\Debug\netcoreapp3.0\LinqTask.AssemblyInfo.cs
+D:\LinqTask\obj\Debug\netcoreapp3.0\LinqTask.dll
+D:\LinqTask\obj\Debug\netcoreapp3.0\LinqTask.pdb
